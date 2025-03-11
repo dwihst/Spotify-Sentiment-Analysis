@@ -44,7 +44,7 @@ Link Dataset: [Spotify Reviews 2022 - Kaggle](https://www.kaggle.com/datasets/mf
 
 ---
 
-## Hasil
+## Analisis
 
 ### Distribusi Rating
 - Pengguna cenderung memberikan rating yang ekstrem (5 atau 1), menunjukkan bahwa mereka memiliki opini yang kuat, baik sangat puas atau sangat tidak puas.
