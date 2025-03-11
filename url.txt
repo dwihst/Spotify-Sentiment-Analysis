@@ -1,0 +1,3 @@
+hugging face: https://huggingface.co/spaces/dwihst/Spotify-sentiment-analysis
+dataset:
+models: https://drive.google.com/drive/folders/1-08nODninMhtyBIlAThkdLor9-klFFS4?usp=sharing
